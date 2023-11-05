@@ -1,0 +1,24 @@
+{
+"tipoServico": [
+    {
+      "id": 1,
+      "titulo": "ativvidade",
+      "descricao": "zzzzz"
+    },
+    {
+      "id": 2,
+      "titulo": "lazer",
+      "descricao": "zzzzz"
+    },
+    {
+      "id": 3,
+      "titulo": "atividade ar livre",
+      "descricao": "zzzzz"
+    },
+    {
+      "id": 4,
+      "titulo": "refeicao",
+      "descricao": "zzzzz"
+    }
+  ]
+}
